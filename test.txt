@@ -1,1 +1,3 @@
 This is my new file
+Here is a second line and second commit
+Now there is third line
